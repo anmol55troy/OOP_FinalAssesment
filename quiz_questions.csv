@@ -1,0 +1,76 @@
+question_text,option_a,option_b,option_c,option_d,correct_answer,level
+What is the capital of France?,London,Berlin,Paris,Madrid,C,Beginner
+Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B,Beginner
+How many continents are there in the world?,5,6,7,8,C,Beginner
+What is the largest ocean on Earth?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,D,Beginner
+Which animal is known as the King of the Jungle?,Tiger,Elephant,Lion,Bear,C,Beginner
+How many days are there in a week?,5,6,7,8,C,Beginner
+What color is the sky on a clear day?,Green,Blue,Red,Yellow,B,Beginner
+Which country is famous for the pyramids?,India,Egypt,China,Greece,B,Beginner
+What is 5 + 3?,6,7,8,9,C,Beginner
+Which fruit is yellow and monkeys love to eat?,Apple,Banana,Orange,Grapes,B,Beginner
+How many legs does a spider have?,6,8,10,12,B,Beginner
+What do bees make?,Milk,Honey,Butter,Cheese,B,Beginner
+Which season comes after winter?,Spring,Summer,Autumn,Monsoon,A,Beginner
+What is the color of grass?,Blue,Green,Red,Yellow,B,Beginner
+Which bird can fly backwards?,Parrot,Eagle,Hummingbird,Sparrow,C,Beginner
+How many hours are in a day?,12,20,24,30,C,Beginner
+What do we use to measure temperature?,Ruler,Thermometer,Scale,Clock,B,Beginner
+Which is the smallest planet in our solar system?,Mercury,Mars,Venus,Neptune,A,Beginner
+What shape is a basketball?,Square,Triangle,Circle,Rectangle,C,Beginner
+Which organ pumps blood in the human body?,Lungs,Liver,Heart,Kidney,C,Beginner
+How many sides does a triangle have?,2,3,4,5,B,Beginner
+What is the opposite of hot?,Cold,Warm,Cool,Freezing,A,Beginner
+Which insect makes a web?,Ant,Spider,Bee,Butterfly,B,Beginner
+What language is spoken in England?,Spanish,French,German,English,D,Beginner
+What is the tallest mammal on Earth?,Elephant,Giraffe,Horse,Camel,B,Beginner
+Who wrote 'Romeo and Juliet'?,Charles Dickens,William Shakespeare,Jane Austen,Mark Twain,B,Intermediate
+What is the chemical symbol for water?,H2O,CO2,O2,NaCl,A,Intermediate
+In which year did World War II end?,1943,1944,1945,1946,C,Intermediate
+What is the largest planet in our solar system?,Earth,Saturn,Jupiter,Neptune,C,Intermediate
+Which country is home to the kangaroo?,India,Australia,Brazil,Canada,B,Intermediate
+What is the square root of 64?,6,7,8,9,C,Intermediate
+Who painted the Mona Lisa?,Vincent van Gogh,Pablo Picasso,Leonardo da Vinci,Michelangelo,C,Intermediate
+What is the capital of Japan?,Beijing,Seoul,Tokyo,Bangkok,C,Intermediate
+How many bones are in the adult human body?,186,206,226,246,B,Intermediate
+Which element has the atomic number 1?,Helium,Oxygen,Hydrogen,Carbon,C,Intermediate
+What is the currency of the United Kingdom?,Dollar,Euro,Pound,Yen,C,Intermediate
+Who discovered penicillin?,Marie Curie,Alexander Fleming,Isaac Newton,Albert Einstein,B,Intermediate
+What is the largest desert in the world?,Gobi,Sahara,Arabian,Antarctic,D,Intermediate
+In which continent is the Amazon Rainforest located?,Africa,Asia,South America,Australia,C,Intermediate
+What is the freezing point of water in Celsius?,0 degrees,32 degrees,100 degrees,-10 degrees,A,Intermediate
+Which planet is closest to the Sun?,Venus,Mercury,Mars,Earth,B,Intermediate
+What is the main language spoken in Brazil?,Spanish,Portuguese,English,French,B,Intermediate
+How many states are there in the USA?,48,49,50,51,C,Intermediate
+What is the speed of light approximately?,300000 km/s,150000 km/s,500000 km/s,1000000 km/s,A,Intermediate
+Who was the first person to walk on the Moon?,Buzz Aldrin,Yuri Gagarin,Neil Armstrong,Alan Shepard,C,Intermediate
+What is the chemical formula for table salt?,NaCl,KCl,CaCO3,HCl,A,Intermediate
+Which organ is responsible for filtering blood?,Heart,Liver,Kidney,Lungs,C,Intermediate
+What year did the Titanic sink?,1910,1912,1914,1916,B,Intermediate
+What is the longest river in the world?,Amazon,Nile,Yangtze,Mississippi,B,Intermediate
+Which gas do plants absorb from the atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,C,Intermediate
+What is the Heisenberg Uncertainty Principle?,Position and momentum cannot be simultaneously known with precision,Energy is quantized,Matter can be converted to energy,Light behaves as both wave and particle,A,Advanced
+Who developed the theory of general relativity?,Isaac Newton,Niels Bohr,Max Planck,Albert Einstein,D,Advanced
+What is the primary programming paradigm of Haskell?,Object-Oriented,Imperative,Functional,Procedural,C,Advanced
+In economics what does GDP stand for?,General Domestic Product,Gross Development Plan,Gross Domestic Product,General Development Product,C,Advanced
+What is the second law of thermodynamics?,Energy cannot be created or destroyed,Entropy of an isolated system always increases,Force equals mass times acceleration,Every action has an equal and opposite reaction,B,Advanced
+Who proved Fermat's Last Theorem?,Andrew Wiles,Pierre de Fermat,Leonhard Euler,Carl Gauss,A,Advanced
+What is the Schwarzschild radius?,Radius of a black hole event horizon,Distance to nearest star,Radius of Earth's orbit,Distance light travels in a year,A,Advanced
+In quantum mechanics what is superposition?,Particles in multiple states simultaneously,Particles traveling faster than light,Particles with negative mass,Particles that don't exist,A,Advanced
+What is the halting problem in computer science?,An undecidable problem about program termination,A sorting algorithm,A networking protocol,A database query,A,Advanced
+Who formulated the laws of planetary motion?,Galileo Galilei,Johannes Kepler,Tycho Brahe,Nicolaus Copernicus,B,Advanced
+What is Gödel's incompleteness theorem about?,Limits of formal mathematical systems,Quantum mechanics,Relativity,Thermodynamics,A,Advanced
+What is the speed of neutrinos?,Slower than light,Equal to light,Faster than light,Zero,A,Advanced
+In chemistry what is a Bronsted-Lowry acid?,Proton donor,Electron donor,Proton acceptor,Electron acceptor,A,Advanced
+What is the Riemann Hypothesis concerned with?,Distribution of prime numbers,Quantum mechanics,Black holes,DNA structure,A,Advanced
+Who discovered the structure of DNA?,Gregor Mendel,Louis Pasteur,James Watson and Francis Crick,Charles Darwin,C,Advanced
+What is the prisoner's dilemma in game theory?,A scenario analyzing cooperation and betrayal,A physics problem,A chemistry equation,A biology concept,A,Advanced
+What does NP-complete mean in computational complexity?,Problems verifiable in polynomial time,Problems solvable in linear time,Problems impossible to solve,Problems with no solutions,A,Advanced
+What is the cosmological constant in Einstein's equations?,Energy density of empty space,Speed of light,Gravitational constant,Planck's constant,A,Advanced
+In philosophy what is Descartes' cogito?,I think therefore I am,God exists,Mind and body are separate,Knowledge comes from experience,A,Advanced
+What is the many-worlds interpretation in quantum mechanics?,All possible outcomes occur in different universes,Only one outcome occurs,Outcomes are predetermined,Particles don't exist,A,Advanced
+What is the P versus NP problem?,Whether P equals NP in complexity theory,A physics equation,A chemistry formula,A biology question,A,Advanced
+Who proposed the concept of natural selection?,Jean-Baptiste Lamarck,Charles Darwin,Gregor Mendel,Alfred Wallace,B,Advanced
+What is Nash equilibrium in game theory?,A stable state where no player benefits from changing strategy,A winning strategy,A losing strategy,A random strategy,A,Advanced
+What is quantum entanglement?,Correlated quantum states across distance,Particles merging,Particles splitting,Particles disappearing,A,Advanced
+What is the Turing test?,Test of machine intelligence,Test of human intelligence,Test of memory,Test of speed,A,Advanced
