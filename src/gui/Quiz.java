@@ -169,7 +169,7 @@ public class Quiz extends JFrame {
         // Check if an answer is selected
         if (!radioA.isSelected() && !radioB.isSelected() && 
             !radioC.isSelected() && !radioD.isSelected()) {
-            JOptionPane.showMessageDialog(this, "Please select an answer", "Warning", JOptionPane.WARNING_MESSAGE);
+            JOptionPane.showMessageDialog(this, "Please select an answer", "Warning", JOptionPane.PLAIN_MESSAGE);
             return;
         }
 

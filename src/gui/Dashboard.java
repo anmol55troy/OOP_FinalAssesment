@@ -25,7 +25,7 @@ public class Dashboard extends JFrame {
         contentPane.setLayout(null);
 
         // Title
-        JLabel lblTitle = new JLabel("Welcome to Quiz App!");
+        JLabel lblTitle = new JLabel("Welcome to Quiz Application!");
         lblTitle.setFont(new Font("Verdana", Font.BOLD, 32));
         lblTitle.setHorizontalAlignment(SwingConstants.CENTER);
         lblTitle.setBounds(50, 56, 600, 75);
@@ -35,7 +35,7 @@ public class Dashboard extends JFrame {
         JPanel userPanel = new JPanel();
         userPanel.setBackground(Color.WHITE);
         userPanel.setBorder(BorderFactory.createLineBorder(Color.GRAY, 1));
-        userPanel.setBounds(163, 178, 372, 82);
+        userPanel.setBounds(220, 185, 250, 75);
         userPanel.setLayout(null);
         contentPane.add(userPanel);
 
@@ -121,7 +121,7 @@ public class Dashboard extends JFrame {
     }
 
     private void viewCompetitorDetails() {
-        String input = JOptionPane.showInputDialog(this, "Enter Competitor ID:", "Search", JOptionPane.QUESTION_MESSAGE);
+        String input = JOptionPane.showInputDialog(this, "Enter Competitor ID:", "Search", JOptionPane.PLAIN_MESSAGE);
 
         if (input != null && !input.trim().isEmpty()) {
             try {
@@ -143,7 +143,7 @@ public class Dashboard extends JFrame {
                     textArea.setFont(new Font("Tahoma", Font.PLAIN, 12));
                     JScrollPane scrollPane = new JScrollPane(textArea);
                     scrollPane.setPreferredSize(new Dimension(450, 200));
-                    JOptionPane.showMessageDialog(this, scrollPane, "Details", JOptionPane.INFORMATION_MESSAGE);
+                    JOptionPane.showMessageDialog(this, scrollPane, "Details", JOptionPane.PLAIN_MESSAGE);
                 } else {
                     JOptionPane.showMessageDialog(this, "Competitor not found.", "Not Found", JOptionPane.WARNING_MESSAGE);
                 }
